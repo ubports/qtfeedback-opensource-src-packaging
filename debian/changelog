@@ -1,4 +1,10 @@
-qtfeedback-opensource-src (5.0~git20130529-ubports1) xenial; urgency=medium
+qtfeedback-opensource-src (5.0~git20130529-0ubports1) xenial; urgency=medium
+
+  * No change rebuild
+
+ -- Marius <mariogrip@ubports.com>  Fri, 18 May 2018 00:08:33 +0200
+
+qtfeedback-opensource-src (5.0~git20130529+ubports) xenial; urgency=medium
 
   * Rebuild against newer Qt.
 
