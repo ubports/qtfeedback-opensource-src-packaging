@@ -1,3 +1,9 @@
+qtfeedback-opensource-src (5.0~git20180329~a14bd0b-0ubports1) xenial; urgency=medium
+
+  * Update to 5.0~git20180329~a14bd0b
+
+ -- Marius Gripsgard <marius@ubports.com>  Wed, 04 Mar 2020 22:21:38 +0100
+
 qtfeedback-opensource-src (5.0~git20130529-0ubports1) xenial; urgency=medium
 
   * No change rebuild
